@@ -1,5 +1,10 @@
 # MimiClaw: $5 芯片上的口袋 AI 助理
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DeepWiki](https://img.shields.io/badge/DeepWiki-mimiclaw-blue.svg)](https://deepwiki.com/memovai/mimiclaw)
+[![Discord](https://img.shields.io/discord/1338058205825577031?logo=discord&label=Discord)](https://discord.gg/un54aD7Hug)
+[![X](https://img.shields.io/badge/X-@ssslvky-black?logo=x)](https://x.com/ssslvky)
+
 **[English](README.md) | [中文](README_CN.md)**
 
 <p align="center">
